@@ -603,6 +603,10 @@ video {
   width: 1.5rem;
 }
 
+.h-\[240px\] {
+  height: 240px;
+}
+
 .w-full {
   width: 100%;
 }
@@ -673,6 +677,10 @@ video {
 
 .p-16 {
   padding: 4rem;
+}
+
+.p-4 {
+  padding: 1rem;
 }
 
 .p-8 {
@@ -772,4 +780,26 @@ code {
 .disabled\:bg-gray-400:disabled {
   --tw-bg-opacity: 1;
   background-color: rgb(156 163 175 / var(--tw-bg-opacity));
+}
+
+@media (min-width: 768px) {
+  .md\:h-24 {
+    height: 6rem;
+  }
+
+  .md\:h-auto {
+    height: auto;
+  }
+
+  .md\:min-h-screen {
+    min-height: 100vh;
+  }
+
+  .md\:p-8 {
+    padding: 2rem;
+  }
+
+  .md\:p-12 {
+    padding: 3rem;
+  }
 }

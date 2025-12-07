@@ -18,7 +18,7 @@ export default function SaizeriyaLogoGenerator() {
       <img 
         src={charImages[char]} 
         alt={char}
-        className="md:h-24 object-contain"
+        className="h-[240px] md:h-auto object-contain"
         style={{ imageRendering: 'crisp-edges' }}
       />
     );
@@ -162,10 +162,10 @@ export default function SaizeriyaLogoGenerator() {
   };
   
   return (
-    <div className="min-h-screen bg-gradient-to-br from-green-50 to-emerald-50 flex items-center justify-center p-8">
-      <div className="bg-white rounded-2xl shadow-2xl p-12 max-w-2xl w-full">
+    <div className="md:min-h-screen bg-gradient-to-br from-green-50 to-emerald-50 flex items-center justify-center p-4 md:p-8">
+      <div className="bg-white rounded-2xl shadow-2xl p-4 md:p-12 max-w-2xl w-full">
         <h1 className="text-3xl font-bold text-center mb-8 text-gray-800">
-          サイゼリヤロゴチャレンジャー
+          サイゼリヤロゴジェネレーター
         </h1>
         
         <div ref={logoContainerRef} className="bg-green-600 rounded-xl mb-8 flex items-center justify-center min-h-[200px]">
