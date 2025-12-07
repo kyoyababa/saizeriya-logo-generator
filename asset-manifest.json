@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/saizeriya-logo-generator/static/css/main.854b5cf7.chunk.css",
+    "main.js": "/saizeriya-logo-generator/static/js/main.c2456c96.chunk.js",
+    "main.js.map": "/saizeriya-logo-generator/static/js/main.c2456c96.chunk.js.map",
+    "runtime-main.js": "/saizeriya-logo-generator/static/js/runtime-main.7d29a026.js",
+    "runtime-main.js.map": "/saizeriya-logo-generator/static/js/runtime-main.7d29a026.js.map",
+    "static/js/2.d3af6701.chunk.js": "/saizeriya-logo-generator/static/js/2.d3af6701.chunk.js",
+    "static/js/2.d3af6701.chunk.js.map": "/saizeriya-logo-generator/static/js/2.d3af6701.chunk.js.map",
+    "index.html": "/saizeriya-logo-generator/index.html",
+    "static/css/main.854b5cf7.chunk.css.map": "/saizeriya-logo-generator/static/css/main.854b5cf7.chunk.css.map",
+    "static/js/2.d3af6701.chunk.js.LICENSE.txt": "/saizeriya-logo-generator/static/js/2.d3af6701.chunk.js.LICENSE.txt",
+    "static/media/o0494037014077419118.a158577a.png": "/saizeriya-logo-generator/static/media/o0494037014077419118.a158577a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d29a026.js",
+    "static/js/2.d3af6701.chunk.js",
+    "static/css/main.854b5cf7.chunk.css",
+    "static/js/main.c2456c96.chunk.js"
+  ]
+}
