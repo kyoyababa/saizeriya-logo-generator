@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { RefreshCw, Download } from 'lucide-react';
 import logoImage from './assets/o0494037014077419118.png';
+import './App.css';
 
 export default function SaizeriyaLogoGenerator() {
   const [displayChars, setDisplayChars] = useState<string[]>([]);
